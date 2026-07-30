@@ -1,0 +1,6 @@
+mftool==3.3
+pandas
+numpy
+scipy
+streamlit
+plotly
